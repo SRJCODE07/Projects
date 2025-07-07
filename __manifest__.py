@@ -19,6 +19,7 @@
         "views/college_staff_views.xml",
         "views/college_department_views.xml",
         "views/college_fees_views.xml",
+        "views/college_subject_views.xml",
         "views/menu_views.xml"
 
 

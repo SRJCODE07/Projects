@@ -5,3 +5,4 @@ college_management.access_student_course,access_student_course,college_managemen
 college_management.access_college_staff,access_college_staff,college_management.model_college_staff,base.group_user,1,1,1,1
 college_management.access_college_department,access_college_department,college_management.model_college_department,base.group_user,1,1,1,1
 college_management.access_college_fees,access_college_fees,college_management.model_college_fees,base.group_user,1,1,1,1
+college_management.access_college_subject,access_college_subject,college_management.model_college_subject,base.group_user,1,1,1,1

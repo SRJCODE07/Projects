@@ -4,3 +4,4 @@ from . import student_course
 from . import college_staff
 from . import college_department
 from . import college_fees
+from . import college_subject

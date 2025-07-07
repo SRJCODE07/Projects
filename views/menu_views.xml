@@ -7,7 +7,8 @@
             <menuitem id="menu_course" name="Course" sequence="2" action="student_course_action"/>
             <menuitem id="menu_staff" name="Staff" sequence="1" action="college_staff_action"/>
             <menuitem id="menu_department" name="Department" sequence="4" action="college_department_action"/>
-            <menuitem id="menu_fees" name="Fees" sequence="5" action="college_fees_action"/>
+            <menuitem id="menu_fees" name="Fees" sequence="6" action="college_fees_action"/>
+            <menuitem id="menu_subject" name="Subject" sequence="5" action="college_subject_action"/>
         </menuitem>
     </menuitem>
 
