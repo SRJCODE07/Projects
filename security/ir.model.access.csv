@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+college_management.access_college_student,access_college_student,college_management.model_college_student,base.group_user,1,1,1,1
+college_management.access_student_hobbies,access_student_hobbies,college_management.model_student_hobbies,base.group_user,1,1,1,1
+college_management.access_student_course,access_student_course,college_management.model_student_course,base.group_user,1,1,1,1
+college_management.access_college_staff,access_college_staff,college_management.model_college_staff,base.group_user,1,1,1,1
+college_management.access_college_department,access_college_department,college_management.model_college_department,base.group_user,1,1,1,1
+college_management.access_college_fees,access_college_fees,college_management.model_college_fees,base.group_user,1,1,1,1

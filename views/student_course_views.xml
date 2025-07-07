@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <data>
+        <record id="student_course_views_tree" model="ir.ui.view">
+            <field name="name">student.course.views.tree </field>
+            <field name="model">student.course</field>
+            <field name="arch" type="xml">
+                <tree editable="top">
+                    <field name="name"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="student_course_action" model="ir.actions.act_window">
+            <field name="name">Student Course </field>
+            <field name="res_model">student.course</field>
+            <field name="view_id" ref="student_course_views_tree"/>
+            <field name="view_mode">tree</field>
+        </record>
+    </data>
+</odoo>
